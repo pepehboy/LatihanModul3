@@ -1,4 +1,4 @@
-package modul4;
+package modul3;
 import com.sun.source.tree.WhileLoopTree;
 
 import java.util.Stack;

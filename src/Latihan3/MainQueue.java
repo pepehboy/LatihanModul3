@@ -1,4 +1,4 @@
-package Latihan4;
+package Latihan3;
 
 import java.util.LinkedList;
 import java.util.Queue;
